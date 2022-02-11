@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<widget id="http://yourdomain/FAST" version="1.0.0" viewmodes="fullscreen" xmlns="http://www.w3.org/ns/widgets" xmlns:tizen="http://tizen.org/ns/widgets">
+    <tizen:application id="lUhsIBjjBX.FAST" package="lUhsIBjjBX" required_version="2.3">
+    </tizen:application>
+    <content src="index.html">
+    </content>
+    <feature name="http://tizen.org/feature/screen.size.normal.1080.1920">
+    </feature>
+    <icon src="FAST.png">
+    </icon>
+    <name>
+        FAST
+    </name>
+    <tizen:profile name="tv-samsung">
+    </tizen:profile>
+    <tizen:setting background-support="disable" context-menu="enable" encryption="disable" hwkey-event="enable" install-location="auto" screen-orientation="landscape">
+    </tizen:setting>
+</widget>
